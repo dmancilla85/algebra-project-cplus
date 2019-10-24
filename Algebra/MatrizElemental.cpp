@@ -21,6 +21,9 @@ MatrizElemental::MatrizElemental(void)
 MatrizElemental::MatrizElemental(int n, int m)
 {
 	this->matriz = NULL;
+	this->m = 1;
+	this->n = 1;
+
 	if(n > 0 && m > 0)
 	{
 			this->matriz = new Complejo[n * m];

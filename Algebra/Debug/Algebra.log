@@ -1,0 +1,11 @@
+﻿  Complejo.cpp
+  Entero.cpp
+  Matriz.cpp
+  MatrizElemental.cpp
+  Natural.cpp
+  Real.cpp
+  Test.cpp
+  Compilando...
+  Generando código...
+  Algebra.vcxproj -> D:\Proyectos\cplus\Debug\Algebra.exe
+D:\Proyectos\cplus\algebra\Algebra\MatrizElemental.cpp(21): warning C26495: La variable "MatrizElemental::n" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Proyectos\cplus\algebra\Algebra\</FILEPATH>
+      <FILENAME>MatrizElemental.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "MatrizElemental::n" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>MatrizElemental::{ctor}</FUNCTION>
+    <DECORATED>??0MatrizElemental@@QAE@HH@Z</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>MatrizElemental::n</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
